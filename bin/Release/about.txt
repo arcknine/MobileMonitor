@@ -1,0 +1,1 @@
+This is the about text file. if you see this in the app then you have successfully open it! nice!
